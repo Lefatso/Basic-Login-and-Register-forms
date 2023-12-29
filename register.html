@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="register_Style.css">
+    <link rel="stylesheet" href="index_Style.css">
+    <title>register</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html"><h2>&lt;J/E&gt;</h2></a>
+        </div>
+        <div class="nav">
+            <nav>               
+                <ul> 
+                    <li><a id="li1" href="login.html">Login</a></li>
+                    <li><a id="li2" href="register.html">Register</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <form action="#">
+            <fieldset>
+                <legend><img id="social_icon" src="Asserts/images/icons8-register-96.png" alt=""><b>Register</b></legend>
+                <label for="name">Name:</label>
+                <input type="text" id="name" placeholder="enter username" required><br><br>
+                
+                <label for="surname">Surname:</label>
+                <input type="text" id="surname" placeholder="surname" required><br><br>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email"  placeholder="gmail@gmail.com" required><br><br>
+
+                <label for="password">Password:</label>
+                <input type="text" id="password" placeholder="password" required> <br><br>
+                <input type="checkbox" id="terms_and_condition">
+                <label for="terms_and_condition"> I agree with the <a href="">terms and condition</a></label><br><br>
+                
+                <button ><b>Register</b></button><br>   
+                <small>having Acount? <a href="login.html"><b>login</b></a></small>
+            </fieldset>
+        </form>
+        <br><br>
+        <hr>
+    </main>
+</body>
+</html>
