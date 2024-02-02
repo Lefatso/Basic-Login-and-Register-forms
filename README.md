@@ -7,4 +7,4 @@ login and register form using HTML and CSS
 ## View live Demo [https://codepen.io/Lefatso/pen/RwdMOEv]
 # Register form 
 ![html and css register form](https://github.com/Lefatso/Basic-Login-and-Register-forms/assets/106061860/ee877e2a-1e07-4007-b2a5-45881775e52e)
-##View live Demo [https://codepen.io/Lefatso/pen/GRexLPL]
+## View live Demo [https://codepen.io/Lefatso/pen/GRexLPL]
